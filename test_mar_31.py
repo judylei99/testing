@@ -11,3 +11,6 @@ x = 10
 print(x*2)
 print('can this still change?')
 print('This is a test on Mar 31st')
+
+for i in range(10):
+    print(i)
